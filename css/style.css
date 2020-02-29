@@ -58,3 +58,14 @@ html, body {
     border-radius: 0px 50px 50px 0px;
     float: left;
 }
+.loveNote {
+  padding-right:4vw;
+  padding-left:2vw;
+  padding-top:10vw;
+  text-align: justify;
+}
+.perfectBagel {
+  height:36vw;
+  width:36vw;
+  padding-top:10vw;
+}
